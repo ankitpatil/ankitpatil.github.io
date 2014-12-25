@@ -249,7 +249,7 @@
                 // }
 				
 				if (self.arrayPos == 2){
-					self.stopNum = 18;
+					self.stopNum = 21;
 				}else{
 					self.stopNum = 5;
 				}
