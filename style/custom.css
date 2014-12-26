@@ -32,4 +32,5 @@
 
 #about_text,#links,#resume{
 	font-family: "Courier New", Courier, monospace;
+	font-size: 110%;
 }
